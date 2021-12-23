@@ -60,7 +60,7 @@ Step 2. Add the dependency ( App Level )
 
 ```
 	dependencies {
-	        implementation 'com.github.jaidi2858:ForceUpdateRenesisTech:1.0.0'
+	        implementation 'com.github.jaidi2858:ForceUpdateRenesisTech:1.0.1'
 	}
 ```
   

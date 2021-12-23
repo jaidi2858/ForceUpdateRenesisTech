@@ -25,7 +25,7 @@ Library to check the latest version of app and Force user to update app on lates
         }	
 ```
 
-You can also customize app colors and logo accoridng to your app theme
+You can also customize UI accoridng to your app theme
 
 ```
 
@@ -34,7 +34,9 @@ You can also customize app colors and logo accoridng to your app theme
         appForceUpdate.buttonBackgroundColor=R.color.colorBlackWhite
         appForceUpdate.buttonTextColor=R.color.colorBlackWhite
         appForceUpdate.contentColor=R.color.colorBlackWhite
+	appForceUpdate.progressBarColor=R.color.colorBlackWhite
         appForceUpdate.defaultLogo=R.drawable.android
+	appForceUpdate.enabledProgressBar=false
 	
 ```	
 

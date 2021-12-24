@@ -42,7 +42,7 @@ You can also customize UI accoridng to your app theme
 
 
 
-# DOWNLOD
+# DOWNLOAD
 
 Download the latest AAR from Maven Central or grab via Gradle:
 
